@@ -7,7 +7,7 @@ This project implements a multilingual FAQ system using Django, Django REST Fram
 1. Clone the repository:
     ```sh
     git clone git@github.com:AbhinavTiwari2705/Backend-django.git
-    cd faw-system
+    cd Backend-django
     ```
 
 2. Create a virtual environment and activate it:
